@@ -1,4 +1,4 @@
-### Hello there -insert obi-wan's voice- 👋
+### Hello there 👋
 
 <!--
 **tassidev/tassidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
